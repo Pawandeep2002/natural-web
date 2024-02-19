@@ -1,0 +1,148 @@
+ *{
+	margin:0px auto;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+.hero{
+	height:600px;
+	width:100%;
+	background-image:url(images/hint.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.container{
+	height:600px;
+	width:90%;
+	background:transparent;
+	
+}
+.header{
+	height:100px;
+	width:90%;
+	background-color:transparent;
+	margin:0px auto;
+}
+.navbar{
+	height:90px;
+	width:90%;
+	text-align:center;
+	line-height:90px;
+	
+}
+a{
+	background:#b3b3b3;
+}
+.nav-link{
+	text-decoration:none;
+	padding:10px 15px;
+	color:#ffffff;
+	font-size:20px;
+	border-radius:5px;
+	margin:6px;
+}
+fieldset{
+	width:70%;
+	margin:0px auto;
+	position:relative;
+	top:80px;
+	left:0px;
+	border-radius:5%
+	
+}
+legend{
+	font-size:90px;
+	color:#fff;
+	
+}
+h1{
+	font-size:30px;
+	text-align:center;
+	padding:30px;
+	color:#737373;
+	font-family: 'Raleway', sans-serif;
+}
+.info{
+	text-align:center;
+	line-height:40px;
+	font-size:20px;
+    font-family: 'Raleway', sans-serif;
+	color:#fff;
+}	
+.bttm{
+	height:40px;
+	width:130px;
+	background-color:#ffffff;
+	text-align:center;
+	padding:10px;
+	border-radius:5px;
+	position:relative;
+	top:23px;
+	right:0px auto;
+	
+}
+.nostop{
+	height:400px;
+	width:100%;
+	background:transparent;
+}
+
+.stop{
+	height:300px;
+	width:35%;
+	background-image:url(images/bridge.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	position:relative;
+	top:60px;
+	right:0px;
+}
+.Tstop{
+	height:400px;
+	width:65%;
+	background:transparent;
+	float:left;
+	box-shadow:0.1px 0.5px 0px 0px gray;
+}
+h2{
+	font-size:30px;
+	margin:0px 0px 0px 35px;
+}
+.bottt{
+	font-size:17px;
+	line-height:30px;
+	margin:20px 0px 0px 35px;
+}
+.lern{
+	height:45px;
+	width:125px;
+	background:#b3b3b3;
+	float:left;
+	line-height:45px;
+	margin:40px 0px 0px 35px;
+	text-align:center;
+	color:#ffffff;
+}
+.scam{
+	height:300px;
+	width:35%;
+	background-image:url(images/waterfall.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	position:relative;
+	top:60px;
+	right:0px;
+}
+.vvvvv{
+	height:300px;
+	width:35%;
+	background-image:url(images/azl.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	position:relative;
+	top:60px;
+	right:0px;
+}
